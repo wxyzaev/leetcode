@@ -1,2 +1,2 @@
 # leetcode
-LeetCode 문제풀이 정리
+LeetCode 문제 풀이 정리
